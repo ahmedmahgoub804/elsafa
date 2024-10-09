@@ -95,10 +95,10 @@ ul {
   right: 20px; /* Adjust position as needed */
   background-color: transparent; /* Transparent background */
   border: none; /* No border */
-  color: white; /* White text */
+  color: red; /* White text */
   font-size: 24px; /* Font size */
   cursor: pointer; /* Pointer cursor */
-  z-index: 1001; /* Higher than overlay image */
+  z-index: 100001; /* Higher than overlay image */
   transition: color 0.3s;
 }
 
